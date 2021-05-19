@@ -1,2 +1,2 @@
-# comments
-comments repository on blog (namwone.github.io)
+comments repository on blog <https://namwone.github.io>
+using [utterances](https://github.com/apps/utterances)
